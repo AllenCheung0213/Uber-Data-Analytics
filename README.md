@@ -5,7 +5,7 @@
 This ambitious project aims to unlock valuable insights from Uber data through the power of cutting-edge tools and technologies, including Google Cloud Platform (GCP), Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Looker Studio Dashboard 
-<img src="uber-data-analytics-dashboard.jpeg">
+<img src="uber-data-analytics-dashboard.png">
 https://lookerstudio.google.com/s/nYvkBcH1SO4
 
 ## System Architecture 
